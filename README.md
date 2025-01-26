@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack  
 - 💻 **Languages/Frameworks:** Python, Qt, MySQL  
-- 🧰 **Tools:** Rez, Maya, Houdini, Unreal Engine, Blender  
+- 🧰 **Tools:** Rez, Maya, Houdini, Unreal Engine.
 
 ---
 
