@@ -1,5 +1,5 @@
 # About Me  
-🙋‍♂️ Hi there! I'm Felix, an Animation and VFX enthusiast with a passion for programming and science. I’m constantly learning and pushing my boundaries to combine creativity and technology. Welcome to my GitHub, where I share projects that innovate and inspire!  
+👋 Hi! I'm Felix, an Animation and VFX professional with a strong interest in programming and problem-solving. I’m always looking for ways to bridge creativity and technology through innovative tools and workflows. Explore my GitHub to discover projects designed to simplify and enhance creative processes!  
 
 ---
 
@@ -41,4 +41,4 @@ A demonstration of how **IterCmds** interacts with scenes using commands and arg
 
 ---
 
-Feel free to explore, fork, and collaborate on my projects. Let’s innovate together! 🚀
+Thank you for checking out my GitHub! Feel free to explore, collaborate, or reach out if you find something inspiring. Let’s create something amazing together! 🚀
