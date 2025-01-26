@@ -39,6 +39,3 @@ The **Iter Node Tool** is a robust, node-based system aimed at enhancing product
 A demonstration of how **IterCmds** interacts with scenes using commands and arguments, enhanced by the **k_mysql** package for direct database manipulation.  
 ![MySQL Wrapper](https://i.imgur.com/YjGWhzU.png)  
 
----
-
-Thank you for checking out my GitHub! Feel free to explore, collaborate, or reach out if you find something inspiring. Let’s create something amazing together! 🚀
