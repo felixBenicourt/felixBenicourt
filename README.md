@@ -1,5 +1,5 @@
 # About Me  
-👋 Hi! I'm Felix, an Animation and VFX professional with a strong interest in programming and problem-solving. I’m always looking for ways to bridge creativity and technology through innovative tools and workflows. Explore my GitHub to discover projects designed to simplify and enhance creative processes!  
+👋 Hi! I'm Felix, an Animation and VFX professional with a strong interest in programming and problem-solving. I’m always looking for ways to bridge creativity and technology through innovative tools and workflows. Explore my GitHub to discover projects designed to simplify and enhance animation processes!  
 
 ---
 
