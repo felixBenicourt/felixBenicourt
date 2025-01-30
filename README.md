@@ -30,6 +30,7 @@ The **Iter Node Tool** is a robust, node-based system aimed at enhancing product
 ---
 
 ### [👽 Machin Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes) 
+This project is a machine learning pipeline for training models that predict blendshape displacements from neutral face positions.
 [![Watch the video](https://i.imgur.com/dV9DvzP.png)](https://vimeo.com/manage/videos/1044001514)
 
 ---
