@@ -29,6 +29,10 @@ The **Iter Node Tool** is a robust, node-based system aimed at enhancing product
 
 ---
 
+### [👽 Machin Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes) 
+[![Watch the video](https://i.imgur.com/dV9DvzP.png)](https://vimeo.com/manage/videos/1044001514)
+
+---
 ### [🧰 Karpenter Tool Box](https://github.com/felixBenicourt/karpenter)  
 **Karpenter** is a powerful tool designed for managing and executing scripts across multiple DCC applications like Maya, Houdini and Unreal Engine.  
 ![Search Bar](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZqejBrNzB4MzJzNDliMHgxamlncGZqbWEzcGd3ZGlqeXZwdmszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IidIrvm14Q0lxrQQl2/giphy.webp)  
