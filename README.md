@@ -11,7 +11,6 @@
 - 💻 **Languages/Frameworks:** Python, Qt, MySQL  
 - 🧰 **Tools:** Rez, Maya, Houdini, Unreal Engine  
 
----  
 
 ## 🚀 Featured Projects  
 
