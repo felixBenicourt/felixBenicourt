@@ -1,19 +1,16 @@
 # About Me  
 👋 Hi! I'm Felix, an Animation and VFX professional with a strong passion for programming and problem-solving. I enjoy developing tools that enhance creative workflows by bridging artistry and technology. My projects focus on streamlining animation and VFX processes, making complex tasks more efficient and intuitive.
 
----  
 
 ## 🌐 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felixbenicourt/)  
 - 🎥 [Vimeo](https://vimeo.com/user23522012)  
 
----  
 
 ## 🛠️ Tech Stack  
 - 💻 **Languages/Frameworks:** Python, Qt, MySQL  
 - 🧰 **Tools:** Rez, Maya, Houdini, Unreal Engine  
 
----  
 
 ## 🚀 Featured Projects  
 
