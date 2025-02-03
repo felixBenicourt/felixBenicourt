@@ -26,7 +26,7 @@ The **Iter Node Tool** is a powerful node-based system designed to enhance produ
 
 ---  
 
-### [👽 Machine Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes)  
+### [👽 Machine Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes_doc)
 This project leverages machine learning to automate blendshape generation, predicting facial deformations from neutral poses to enhance animation workflows.  
 [![Watch the video](https://i.imgur.com/dV9DvzP.png)](https://vimeo.com/manage/videos/1050592377)  
 
