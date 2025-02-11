@@ -8,13 +8,13 @@
 
 ## 🛠️ Tech Stack  
 - 💻 **Languages/Frameworks:** Python, Qt/PySide, MySQL, Learning C++
-- 🧪 **Tools:** Rez, Maya, Houdini, Unreal Engine  
+- 🔬 **Tools:** Rez, Maya, Houdini, Unreal Engine  
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
-### [🌌 Custom Launcher Rez](https://github.com/felixBenicourt/k_launcher)  
-**k_launcher** is a versatile command-line utility designed to simplify configuration management and the launching of DCC tools in custom environments. 
-It also manages Git branches, repositories, and release packaging with version control. This tool has been used in real-world scenarios to maintain clean development workflows.  
+### [🚀 Custom Launcher Rez](https://github.com/felixBenicourt/k_launcher)  
+**k_launcher** is a versatile command-line utility designed to simplify configuration management and the launching of DCC/tools in custom environments. 
+It also manages Git branches, repositories, and release packaging with version control. This tool is used to maintain clean development workflows.  
 [![Watch the video](https://i.imgur.com/RkaPYbH.png)](https://vimeo.com/1044001514)  
 
 ---  
@@ -27,22 +27,22 @@ It integrates seamlessly with DCC tools such as Maya, Unreal Engine, and Houdini
 ---  
 
 ### [👽 Machine Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes_doc)  
-This project leverages machine learning to automate blendshape generation, predicting facial deformations from neutral poses to enhance animation workflows. The tool has been successfully used to speed up character rigging pipelines.  
+This project leverages machine learning to automate blendshape generation, predicting facial deformations from neutral poses to enhance animation workflows. The tool is used to speed up character rigging pipelines.  
 [![Watch the video](https://i.imgur.com/dV9DvzP.png)](https://vimeo.com/manage/videos/1050592377)  
 
 ---  
 
 ### [🧰 Karpenter Tool Box](https://github.com/felixBenicourt/karpenter)  
-**Karpenter** is a robust tool for managing and executing scripts and command lines across multiple DCC applications. It provides a simple way to launch DCC, tools, and scripts in specific environments, making it a valuable addition to any technical pipeline.  
+**Karpenter** is a robust tool for managing and executing scripts and command lines across multiple DCC applications. It provides a simple way to launch DCC, tools, and scripts in specific environments, making it a valuable addition to any pipeline.  
 ![Search Bar](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZqejBrNzB4MzJzNDliMHgxamlncGZqbWEzcGd3ZGlqeXZwdmszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IidIrvm14Q0lxrQQl2/giphy.webp)  
 
 ---  
 
 ### [🛠️ MySQL Wrapper](https://github.com/felixBenicourt/iterCmds/blob/main/1.0.2/examples/mysql_info.md)  
-A lightweight and efficient wrapper that enables **Iter** to interact with scenes using structured commands and arguments, enhanced by the **k_mysql** package for seamless database manipulation. This tool has been used in real-world cases to streamline data management for production teams.  
+A lightweight and efficient wrapper that enables **Iter** to interact with scenes using structured commands and arguments, enhanced by the **k_mysql** package for seamless database manipulation.
 ![MySQL Wrapper](https://i.imgur.com/YjGWhzU.png)  
 
 ---  
 
-🚀 Many of these projects started as personal explorations but have real-world applications, demonstrating my ability to design, build, and optimize technical workflows. Feel free to explore my work, contribute, or reach out if you're interested in collaborating!
+Many of these projects started as personal explorations but have real-world applications, demonstrating my ability to design, build, and optimize technical workflows. Feel free to explore my work, contribute, or reach out if you're interested in collaborating!
 
