@@ -19,8 +19,7 @@
 ---
 
 ### [🎨 Iter Node Tool](https://github.com/felixBenicourt/iter-doc)  
-The **Iter Node Tool** is a powerful node-based system designed to enhance productivity and optimize workflows for artists, developers, and technical directors. It integrates seamlessly with DCC tools such as Maya, Unreal Engine, and Houdini.  
-**It allows technical directors and artists to create and automate workflows, dramatically reducing the time spent on repetitive tasks and improving collaboration between departments.**  
+The **Iter Node Tool** is a powerful node-based system designed to enhance productivity and optimize workflows for artists, developers, and technical directors. It integrates seamlessly with DCC tools such as Maya, Unreal Engine, and Houdini.   
 [![Watch the video](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ExcWJpbmV4NmsxMHgyYjllamk3cTZzZjIybGNpbHppdG9xcHJ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJdOBEFA3RNnu3IDwf/giphy.gif)](https://vimeo.com/899695629)  
 
 ---
