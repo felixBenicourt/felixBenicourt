@@ -7,7 +7,7 @@
 - 🎥 [Vimeo](https://vimeo.com/user23522012)  
 
 ## 🔬 Tech Stack  
-- 💻 **Languages/Frameworks:** Python, Qt/PySide, MySQL, Exploring C++
+- 💻 **Languages/Frameworks:** Python, JavaScript, Qt/PySide, MySQL, Exploring C++
 - 🛠 **Tools:** Rez, Maya, Houdini, Unreal Engine  
 
 ##  Featured Projects  
