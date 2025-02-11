@@ -29,7 +29,7 @@ It integrates seamlessly with DCC tools such as Maya, Unreal Engine, and Houdini
 ---  
 
 ### [👽 Machine Learning Blendshapes](https://github.com/felixBenicourt/ml_blendshapes_doc)  
-This project leverages machine learning to automate blendshape generation, predicting facial deformations from neutral poses to enhance animation workflows. The tool is used to speed up character rigging pipelines.  
+This project leverages machine learning to automate blendshape generation, predicting facial deformations from neutral poses to enhance animation workflows. The tool is used to speed up character blendshapes sculpt process.  
 
 [![Watch the video](https://i.imgur.com/dV9DvzP.png)](https://vimeo.com/manage/videos/1050592377)  
 
