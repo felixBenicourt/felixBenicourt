@@ -1,6 +1,6 @@
 # About Me  
 
-👋 Hi! I'm Felix, an Animation and VFX professional with a strong passion for programming and problem-solving. With over 7 years in the industry, I have developed a deep understanding of how to blend artistry and technology through programming. I enjoy developing tools that enhance creative workflows by bridging artistry and technology. My projects focus on streamlining animation and VFX processes, making complex tasks more efficient and intuitive.
+👋 Hi! I'm Felix, an Animation and VFX professional with a strong passion for programming and problem-solving. With over 7 years in the industry, I have developed a deep understanding of how to blend artistry and technology through programming. My projects focus on streamlining animation and VFX processes, making complex tasks more efficient and intuitive.
 
 ## 🌐 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/felixbenicourt/)  
