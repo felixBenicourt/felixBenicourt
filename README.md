@@ -42,7 +42,7 @@ This project leverages machine learning to automate blendshape generation, predi
 
 ---  
 
-### [💾 MySQL Wrapper](https://github.com/felixBenicourt/iterCmds/blob/main/1.0.2/examples/mysql_info.md)  
+### [🗄️ MySQL Wrapper](https://github.com/felixBenicourt/iterCmds/blob/main/1.0.2/examples/mysql_info.md)  
 A lightweight and efficient wrapper that enables **Iter** to interact with scenes using structured commands and arguments, enhanced by the **k_mysql** package for seamless database manipulation.
 
 ![MySQL Wrapper](https://i.imgur.com/YjGWhzU.png)  
